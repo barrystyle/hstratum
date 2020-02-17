@@ -33,7 +33,8 @@
     "bsert": "0.0.8",
     "btcp": "~0.1.4",
     "buffer-map": "~0.0.5",
-    "hsd": "github:handshake-org/hsd"
+    "hsd": "github:handshake-org/hsd",
+    "sqlite3": "^4.1.1"
   },
   "devDependencies": {
     "bmocha": "^1.0.0"
